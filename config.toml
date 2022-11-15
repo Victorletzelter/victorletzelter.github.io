@@ -11,7 +11,7 @@ theme = "FeelIt"
 [params]
   version = "1.0.X"
   # site description
-  description = "Victor Letzelter's blog"
+  description = "Victor Letzelter's Portfolio"
   # site keywords
   keywords = ["Theme", "Hugo", "Victor Letzelter"]
   # site default theme ("light", "dark", "auto")
@@ -310,8 +310,8 @@ theme = "FeelIt"
 
 # Author config
 [author]
-  name = "Younes Belkada"
-  email = "younesbelkada@gmail.com"
+  name = "Victor Letzelter"
+  email = "letzelter.victor@hotmail.fr"
   link = ""
 
 [menu]
