@@ -3,7 +3,7 @@ baseURL = "http://example.org/"
 defaultContentLanguage = "en"
 # language code
 languageCode = "en"
-title = "Younes Belkada's blog"
+title = "Victor Letzelter's Portfolio"
 
 # Change the default theme to be use when building the site with Hugo
 theme = "FeelIt"
@@ -11,9 +11,9 @@ theme = "FeelIt"
 [params]
   version = "1.0.X"
   # site description
-  description = "Younes Belkada's blog"
+  description = "Victor Letzelter's blog"
   # site keywords
-  keywords = ["Theme", "Hugo", "Younes Belkada"]
+  keywords = ["Theme", "Hugo", "Victor Letzelter"]
   # site default theme ("light", "dark", "auto")
   defaultTheme = "auto"
   # public git repo url only then enableGitInfo is true
@@ -25,7 +25,7 @@ theme = "FeelIt"
 
   [params.app]
     # optional site title override for the app when added to an iOS home screen or Android launcher
-    title = "Younes Belkada"
+    title = "Victor Letzelter"
     # whether to omit favicon resource links
     noFavicon = false
     # modern SVG favicon to use in place of older style .png and .ico files
@@ -74,7 +74,7 @@ theme = "FeelIt"
       avatarURL = "/images/avatar.png"
       itle = ""
       # subtitle shown in home page
-      subtitle = "Welcome!"
+      subtitle = "Welcome !"
       # whether to use typeit animation for subtitle
       typeit = true
       # whether to show social links
@@ -100,10 +100,10 @@ theme = "FeelIt"
 
 
   [params.social]
-    GitHub = "younesbelkada"
-    Linkedin = "younes-belkada-b1a903145"
+    GitHub = "VictorLetzelter"
+    Linkedin = "victor-letzelter-3b832219b"
     Twitter = ""
-    Instagram = "younes_blk"
+    Instagram = ""
     Facebook = ""
     Telegram = ""
     Medium = ""
@@ -162,7 +162,7 @@ theme = "FeelIt"
     XMPP = ""
     Matrix = ""
     Bilibili = ""
-    Email = "younesbelkada@gmail.com"
+    Email = "letzelter.victor@hotmail.fr"
     Resume = ""
   
   [params.page]
