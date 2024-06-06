@@ -105,14 +105,15 @@ analytics:
 # Site Author
 author:
   name             : "Victor Letzelter"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Ph.D. student at [Télécom ParisTech](https://www.telecom-paris.fr/) and [Valeo.ai](https://www.valeo.com/en/valeo-ai/), under the supervision of [Patrick Pérez](https://ptrckprz.github.io/), [Mathieu Fontaine](https://matfontaine.github.io/) and [Gaël Richard](https://perso.telecom-paristech.fr/grichard/index.html)."
+  avatar           : "/images/victor_letzelter.jpg"
+  bio              : "Ph.D. student at [Télécom ParisTech](https://www.telecom-paris.fr/) and [Valeo.ai](https://www.valeo.com/en/valeo-ai/), under the supervision of [Mickael Chen](https://0-scholar-google-com.brum.beds.ac.uk/citations?user=QnRpMJAAAAAJ&hl=en), [Mathieu Fontaine](https://matfontaine.github.io/) and [Gaël Richard](https://perso.telecom-paristech.fr/grichard/index.html)."
   location         : "Paris, France"
   email            : "victor.letzelter@telecom-paris.fr"
 
   googlescholar    : "https://scholar.google.com/citations?user=YhTdZh8AAAAJ&hl=en&oi=ao"
   github           : "Victorletzelter"
   linkedin         : "https://www.linkedin.com/in/victor-letzelter-3b832219b/?locale=en_US"
+  twitter          : "https://x.com/VLetzelter"
 
   links:
     - label: "Email"
