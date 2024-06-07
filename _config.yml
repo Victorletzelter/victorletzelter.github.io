@@ -124,7 +124,7 @@ author:
       # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fa-brands fa-square-x-twitter"
-      url: ""
+      # url: ""
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
