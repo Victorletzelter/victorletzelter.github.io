@@ -122,7 +122,7 @@ author:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
-    - label: "Twitter"
+    - label: "X"
       icon: "fa-brands fa-square-x-twitter"
       # url: ""
     - label: "Facebook"
