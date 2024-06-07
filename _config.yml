@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "Victor Letzelter"
   avatar           : "/images/victor_letzelter.jpg"
-  bio              : "Ph.D. student at [Télécom ParisTech](https://www.telecom-paris.fr/) and [Valeo.ai](https://www.valeo.com/en/valeo-ai/), under the supervision of [Mickael Chen](https://0-scholar-google-com.brum.beds.ac.uk/citations?user=QnRpMJAAAAAJ&hl=en), [Mathieu Fontaine](https://matfontaine.github.io/) and [Gaël Richard](https://perso.telecom-paristech.fr/grichard/index.html)."
+  bio              : "Ph.D. student at [Télécom ParisTech](https://www.telecom-paris.fr/) and [Valeo.ai](https://www.valeo.com/en/valeo-ai/)"
   location         : "Paris, France"
   email            : "victor.letzelter@telecom-paris.fr"
 
@@ -123,8 +123,8 @@ author:
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
     - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
+      icon: "fa-brands fa-square-x-twitter"
+      # url: "https://x.com/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
