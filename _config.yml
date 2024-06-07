@@ -124,7 +124,7 @@ author:
       # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fa-brands fa-square-x-twitter"
-      # url: "https://x.com/"
+      url: ""
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
@@ -139,8 +139,8 @@ author:
 footer:
   links:
     - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url:
+      icon: "fa-brands fa-square-x-twitter"
+      # url:""
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
