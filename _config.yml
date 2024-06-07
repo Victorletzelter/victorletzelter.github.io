@@ -139,8 +139,8 @@ author:
 footer:
   links:
     - label: "Twitter"
-      icon: "fa-brands fa-square-x-twitter"
-      # url:""
+      icon: "fab fa-fw fa-twitter-square"
+      # url:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
