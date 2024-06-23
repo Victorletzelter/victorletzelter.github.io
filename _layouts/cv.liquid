@@ -2,6 +2,8 @@
 layout: default
 ---
 
+<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css" rel="stylesheet">
+
 <div class="post">
   <header class="post-header">
     <h1 class="post-title">
@@ -11,10 +13,11 @@ layout: default
           href="{{ page.cv_pdf | prepend: 'assets/pdf/' | relative_url }}"
           target="_blank"
           rel="noopener noreferrer"
-          class="float-right"
-          title="PDF"
+          title="Download CV"
           aria-label="Download CV as PDF"
-          >PDF</a>
+          style="text-decoration: none; color: inherit;"> <!-- Styling directly here to avoid CSS class issues -->
+          <i class="fa fa-file-pdf-o"></i> Download CV
+        </a>
       {% endif %}
     </h1>
     {% if page.description %}
