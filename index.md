@@ -11,4 +11,6 @@ redirect_from:
   - /about.html
 ---
 
-Victor Letzelter is a PhD Candidate at [valeo.ai](https://www.valeo.com/fr/valeo-ai/) and [LTCI](https://www.telecom-paris.fr/fr/recherche/laboratoires/laboratoire-traitement-et-communication-de-linformation-ltci) Laboratory from Telecom ParisTech, more precisely in the [Signal, Statistics and Learning (S2A)](https://www.telecom-paris.fr/en/research/laboratories/information-processing-and-communication-laboratory-ltci/research-teams/signal-statistics-learning) team. Victor is passionate about mathematics and its applications, particularly in artificial intelligence (deep learning, perception, vision, audio) and random modeling (computational statistics, state-space models). His current research focuses on learning under ambiguity and uncertainty. More specifically, he studies methods for learning with multiple hypotheses from ambiguous signals such as audio, visual data, and time series.
+I am passionate about mathematics and its applications, especially in artificial intelligence (deep learning in theory and practice) and random modeling (computational statistics, uncertainty quantification).
+
+I am currently a Ph.D. student at Télécom Paris and Valeo.ai. My research focuses on learning under ambiguity and uncertainty. More specifically, I study methods for learning with multiple hypotheses from ambiguous signals such as audio, text, visual data, and time series.
